@@ -1,11 +1,11 @@
 # Site settings
-author: Juan-Sergio Khoshdel
-title: 
+author: Juan Sergio Khoshdel
+title: The Things I Do
 header-img: img/home-bg.png
 email: jsergiofm85@gmail.com
-copyright_name: Juan-Sergio Khoshdel
+copyright_name: Juan Sergio Khoshdel
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey Into Software Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Djangostar
